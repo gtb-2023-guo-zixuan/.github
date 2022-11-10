@@ -15,7 +15,7 @@
 
 用于写作业
 
-![RUNOOB 图标](https://s7d1.scene7.com/is/image/thoughtworks/ab_50-50_brand_01:1800?wid=900&amp;hei=624&amp;qlt=95%2C1)
+![RUNOOB 图标](https://upload.wikimedia.org/wikipedia/commons/f/f6/Thoughtworks_logo.png)
 
 ### Assignment 进度
 
