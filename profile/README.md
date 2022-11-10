@@ -15,7 +15,7 @@
 
 用于写作业
 
-![abs](https://cdn.pixabay.com/photo/2016/10/18/21/22/beach-1751455_960_720.jpg)
+![RUNOOB 图标](https://s7d1.scene7.com/is/image/thoughtworks/ab_50-50_brand_01:1800?wid=900&amp;hei=624&amp;qlt=95%2C1)
 
 ### Assignment 进度
 
